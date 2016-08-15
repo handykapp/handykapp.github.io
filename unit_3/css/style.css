@@ -1,6 +1,15 @@
+/*html { background:url(../images/words.png) no-repeat center center; 
+  background-size: cover;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}*/
+
 body { 
   color: #000;
   font-family: Open Sans, sans-serif;
+  min-height: 100vh;
 }
 
 #bg {
