@@ -1,0 +1,67 @@
+html {
+background-color: #26a6a6;
+}
+
+nav{
+font-family: 'Spinnaker', sans-serif;
+text-align: right;
+padding: 10px 20px 20px 10px;
+color: black;
+font-size: 18px;
+line-height: 1.5;
+}
+
+#logo {
+  font-family: 'Chango', cursive;
+  text-align: left;
+  font-size: 200%;
+  color: #f3eacb;
+  padding-left: 50px;
+}
+
+#title {
+  color: white;
+  font-family: 'Cookie', cursive;
+  font-size: 700%;
+  padding: 500px 0px 0px 0px;
+  margin:auto;
+}
+
+img {
+  float: left;
+  top: 0;
+  left: 15px;
+  right: 15px;
+  bottom: 0;
+  margin: auto;
+  height: 35%;
+  width: 35%;
+}
+
+/* unvisited link */
+a:link {
+    color: #f3eacb;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: #f3eacb;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+p {
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 18px;
+  color: black;
+  padding: 0px;
+  line-height: 1.5;
+}
